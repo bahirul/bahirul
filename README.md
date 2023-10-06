@@ -2,7 +2,7 @@
 
 I'm engineer who loves to create cool stuff with code and love OpenSource. 😄
 
-Currently leading [CXC-IX](https://cloudxchange.id) as network architect and software engineer. 🚀
+Currently leading project on [CXC-IX](https://cloudxchange.id) as network architect and software engineer. 🚀
 
 ✉ You can reach me via email.
 
